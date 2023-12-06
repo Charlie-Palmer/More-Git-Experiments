@@ -1,6 +1,5 @@
-my_list = (1,3,5,7)
+my_list = (1, 2, 3, 4, 4, 5)
 for x in my_list:
-	x = x/100
+	x = x *2
 	print(x)
-	print(my_list)
-
+    
